@@ -16,4 +16,5 @@ This is a beginner-friendly course focused on teaching Java fundamentals through
 
 ## Certificate
 
-https://certificates.mooc.fi/validate/e3xr53a1mnb
+![certificate-java-mooc-i](https://certificates.mooc.fi/api/certificate/image/e3xr53a1mnb)
+[Validate certificate](https://certificates.mooc.fi/validate/e3xr53a1mnb)
