@@ -15,6 +15,7 @@ This is a beginner-friendly course focused on teaching Java fundamentals through
 - Part 7: Summary and final project
 
 ## Certificate
+<img width="3508" height="2480" alt="certificate-java-programming-i" src="https://github.com/user-attachments/assets/3c99dc67-32f4-47d4-b6b8-05ce9b205a6b" />
 
-![certificate-java-mooc-i](https://certificates.mooc.fi/api/certificate/image/e3xr53a1mnb)
-[Validate certificate](https://certificates.mooc.fi/validate/e3xr53a1mnb)
+You can validate this certificate here:  
+https://certificates.mooc.fi/validate/e3xr53a1mnb
